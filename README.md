@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19843
-Fork on GitHub
-5976
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hello, I'm Alvin Graham</h1>
 <h3 align="center">💾 Software Engineer / 💪🏽 Army Veteran / 🤓 Nerd</h3>
 
