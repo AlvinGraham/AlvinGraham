@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Frameworks**
 
-- 💬 Ask me about **React, Node, PostgreSQK**
+- 💬 Ask me about **React, Node, PostgreSQL**
 
 - 📫 How to reach me **AlvinGraham777@gmail.com**
 
