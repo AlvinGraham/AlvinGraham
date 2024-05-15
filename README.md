@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvingraham&label=Profile%20views&color=0e75b6&style=flat" alt="alvingraham" /> </p>
 
-- 🔭 I’m currently working on [Prime Academy Group Project](https://github.com/AlvinGraham/MyMedVita)
+- 🔭 I’m currently working on [Data Science Exploration](https://www.codecademy.com/pages/data-science-career-specializations)
 
-- 🌱 I’m currently learning **Full Stack Web Development Frameworks**
+- 🌱 I’m currently learning **Python and AWS Cloud**
 
 - 💬 Ask me about **React, Node, PostgreSQL**
 
