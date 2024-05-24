@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data Science Exploration](https://www.codecademy.com/pages/data-science-career-specializations)
 
-- 🌱 I’m currently learning **Python and AWS Cloud**
+- 🌱 I’m currently learning **TypeScript, Python, and AWS Cloud**
 
 - 💬 Ask me about **React, Node, PostgreSQL**
 
