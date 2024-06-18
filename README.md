@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvingraham&label=Profile%20views&color=0e75b6&style=flat" alt="alvingraham" /> </p>
 
-- 🔭 I’m currently working on [Data Science Exploration](https://www.codecademy.com/pages/data-science-career-specializations)
+- 🔭 I’m currently working on [The C# Academy](https://thecsharpacademy.com/)
 
-- 🌱 I’m currently learning **TypeScript, Python, and AWS Cloud**
+- 🌱 I’m currently learning **C# Console Review**
 
 - 💬 Ask me about **React, Node, PostgreSQL**
 
